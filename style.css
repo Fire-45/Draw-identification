@@ -1,0 +1,24 @@
+body{
+    background:linear-gradient(rgb(52, 218, 52) 0%, rgb(122, 122, 233) 100%)
+}
+
+#footer{
+    position: fixed;
+    bottom: 0;
+    text-align: center;
+    background-color: rgb(91, 241, 229);
+    width: 100%;
+    line-height: 3.8;
+}
+
+Label{
+    margin-right: 100px;
+}
+
+canvas{
+    border-color: grey;
+    border-width: 10px;
+    border-style: ridge;
+    box-shadow: 10px 10px 20px white;
+    
+}
